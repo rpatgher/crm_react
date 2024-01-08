@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "name": "Juan",
+      "company": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "phone": "102013313",
+      "notes": "The customer is from an Ecommerce",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@juan.com",
+      "company": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "phone": 1398198938,
+      "email": "pedro@juan.com",
+      "company": "Codigo Con Juan"
+    },
+    {
+      "name": "Remy Patgher",
+      "company": "Apple",
+      "email": "correo@correo.com",
+      "phone": "5545497970",
+      "notes": "Hello",
+      "id": 6
+    }
+  ]
+}
